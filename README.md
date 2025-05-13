@@ -1,5 +1,7 @@
-
 # Dự Án Chấm Điểm Bài Thi Học Sinh
+
+## Github link
+https://github.com/quysvFX52511/DAP304x_asm1
 
 ## Mô Tả Dự Án
 Dự án này thực hiện việc chấm điểm cho bài thi của học sinh dựa trên một bộ câu trả lời đúng đã được xác định trước. Chương trình sẽ đọc dữ liệu từ các tệp `.txt` chứa thông tin học sinh và kết quả của họ, tính điểm cho từng học sinh, và xuất ra các thống kê như điểm trung bình, điểm cao nhất, điểm thấp nhất, cũng như phân tích câu hỏi nào bị bỏ qua hoặc sai nhiều nhất.
